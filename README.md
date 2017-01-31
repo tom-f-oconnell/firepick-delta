@@ -1,6 +1,6 @@
 ### FlyPick Delta Hardware/Mechanical Repo
 
-Adapting the open pick-and-place machine "FirePick Delta" to be able handle fruit flies for research purposes. The 2015 publication [Dexterous robotic manipulation of alert adult Drosophila for high-content experimentation](http://dx.doi.org/10.1038/nmeth.3410), by Savall et al. is a source of much inspiration for this project. My goals for this project are to make a robot with similar functionality, but at a fraction of the cost, and with complete design files available for easy and reproducible manufacture.
+Adapting the open pick-and-place machine "FirePick Delta" to be able handle fruit flies for research purposes. The 2015 publication [Dexterous robotic manipulation of alert adult Drosophila for high-content experimentation](http://dx.doi.org/10.1038/nmeth.3410), by Savall et al. is a source of much inspiration for this project. My goals are to make a robot with similar functionality, but at a fraction of the cost, and with complete design files available for easy and reproducible manufacture.
 
 #### Summary / Context
 
